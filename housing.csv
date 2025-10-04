@@ -1,0 +1,11 @@
+location,size_sqft,rooms,age,price
+Downtown,1500,3,5,250000
+Suburb,1200,2,10,180000
+Countryside,2000,4,20,220000
+Downtown,850,2,2,175000
+Uptown,1350,3,8,210000
+Suburb,1600,4,12,200000
+Countryside,2400,5,25,260000
+Downtown,1100,2,3,195000
+Uptown,1800,3,7,240000
+Suburb,1450,3,15,190000
